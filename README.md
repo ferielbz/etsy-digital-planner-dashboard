@@ -32,6 +32,7 @@ Data was collected using a custom Python script:
 
 etsy_digital_planner_2026_scraper.py
 
+---
 
 ## It extracts:
 
@@ -53,8 +54,10 @@ Then the data was cleaned and prepared for Power BI in:
 
 etsy_digital_planner_2026_cleaned.csv
 
+---
 
-📈 Power BI Dashboard Structure
+##📈 Power BI Dashboard Structure
+
 1️⃣ Overview Page
 
 KPIs: Total Listings, Distinct Sellers, Average Price, % Digital
@@ -78,8 +81,10 @@ Word cloud / bar chart of most common tags
 Filter panel: Seller name, is_digital, category
 
 
+---
 
-📂 Repository Contents
+##📂 Repository Contents
+
 
 | File                                       | Description            |
 | ------------------------------------------ | ---------------------- |
@@ -92,8 +97,9 @@ Filter panel: Seller name, is_digital, category
 
 
 
+---
 
-🧭 Insights Example
+##🧭 Insights Example
 
 💡 Digital products represent more than 80% of listings.
 
@@ -103,8 +109,10 @@ Filter panel: Seller name, is_digital, category
 
 🕓 Sales peak during October–December, when customers plan for the next year.
 
+---
 
-🧩 Tools & Technologies
+##🧩 Tools & Technologies
+
 
 | Category           | Tools                                   |
 | ------------------ | --------------------------------------- |
@@ -113,8 +121,9 @@ Filter panel: Seller name, is_digital, category
 | Data Cleaning      | Power Query                             |
 | Other              | GitHub, Excel, JSON Theme               |
 
+---
 
-💼 Author
+##💼 Author
 
 Feriel Chorfi
 Data Analyst | Web Scraping | Power BI
@@ -122,7 +131,10 @@ Data Analyst | Web Scraping | Power BI
 🌐 LinkedIn
  | GitHub
 
-📜 License
+
+---
+
+##📜 License
 
 This project is for educational and portfolio purposes only.
 Etsy data was collected responsibly for analytical demonstration.
