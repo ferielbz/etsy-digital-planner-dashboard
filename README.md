@@ -56,7 +56,7 @@ etsy_digital_planner_2026_cleaned.csv
 
 ---
 
-##📈 Power BI Dashboard Structure
+## 📈 Power BI Dashboard Structure
 
 1️⃣ Overview Page
 
@@ -83,7 +83,7 @@ Filter panel: Seller name, is_digital, category
 
 ---
 
-##📂 Repository Contents
+## 📂 Repository Contents
 
 
 | File                                       | Description            |
@@ -99,7 +99,7 @@ Filter panel: Seller name, is_digital, category
 
 ---
 
-##🧭 Insights Example
+## 🧭 Insights Example
 
 💡 Digital products represent more than 80% of listings.
 
@@ -111,7 +111,7 @@ Filter panel: Seller name, is_digital, category
 
 ---
 
-##🧩 Tools & Technologies
+## 🧩 Tools & Technologies
 
 
 | Category           | Tools                                   |
@@ -123,7 +123,7 @@ Filter panel: Seller name, is_digital, category
 
 ---
 
-##💼 Author
+## 💼 Author
 
 Feriel Chorfi
 Data Analyst | Web Scraping | Power BI
@@ -134,7 +134,7 @@ Data Analyst | Web Scraping | Power BI
 
 ---
 
-##📜 License
+## 📜 License
 
 This project is for educational and portfolio purposes only.
 Etsy data was collected responsibly for analytical demonstration.
